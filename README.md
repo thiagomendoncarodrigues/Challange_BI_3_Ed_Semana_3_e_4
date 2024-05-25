@@ -1,2 +1,4 @@
 # Challange_BI_3_Ed_Semana_3_e_4
 Challange Bi Desempenho de Venda Empresa Meteora
+
+Power BI: https://app.powerbi.com/view?r=eyJrIjoiZDYzYzZmODktOWE3Yi00M2E2LTg4NzktZmU1YzRiNTQzZjJhIiwidCI6ImQxYmIyZGQyLWM2ZTEtNGI3MC05ZGY3LWFiY2IxMzYzMTU4MiJ9
