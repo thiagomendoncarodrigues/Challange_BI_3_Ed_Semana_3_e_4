@@ -1,22 +1,20 @@
 # Challange_BI_3_Ed_Semana_3_e_4
-Challange Bi Desempenho de Venda Empresa Meteora
+Challange BI Desempenho de Vendas Empresa Meteora
 
-#Análise de Vendas
+# Análise de Vendas
 
-Objetivo:
+**Objetivo:**
 
 Este projeto tem como objetivo principal realizar uma análise a respento das vendas do E-Comerci Meteora. Meteora é um E-comerci especializado em roupas e acessorios.
 
-Propósito:
+**Propósito:**
 A análise consiste em criar um relatório Financeiro e vendas à equipe de gerencia para embasar a tomada de decisões estratégicas, visualizar os desempenho das vendas, buscar de melhorias. Através da análise de dados e da criação de um dashboard estratégico em Finanças, o projeto busca:
-Financeiro e vendas
 
-Mensurar o desempenho das vendas: 
+Mensurar o desempenho das vendas:
 
-Estabelecer métricas-chave: Definir indicadores relevantes para acompanhar o progresso das campanhas e o impacto das ações de marketing no negócio.
+Estabelecer métricas-chave:
 
-Esclarecer dúvidas e embasar decisões: Fornecer à equipe de gerenciamento de dados concretos e análises aprofundadas para auxiliar na tomada de decisões estratégicas sobre as campanhas de marketing.
+Esclarecer dúvidas e embasar decisões:
 
-Validar a estratégia de marketing : Validar a efetividade da estratégia de marketing atual e identificar oportunidades de otimização para o crescimento do blog.
 
 Power BI: https://app.powerbi.com/view?r=eyJrIjoiZDYzYzZmODktOWE3Yi00M2E2LTg4NzktZmU1YzRiNTQzZjJhIiwidCI6ImQxYmIyZGQyLWM2ZTEtNGI3MC05ZGY3LWFiY2IxMzYzMTU4MiJ9
