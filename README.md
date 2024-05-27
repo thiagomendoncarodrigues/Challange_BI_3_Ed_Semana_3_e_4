@@ -1,4 +1,4 @@
-# Challange BI 3 Edição Semana 3 e 4
+# Challange BI 3º Edição Semana 3 e 4
 Challange BI Desempenho de Vendas Empresa Meteora
 
 # Análise de Vendas
